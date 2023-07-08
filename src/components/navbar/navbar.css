@@ -40,7 +40,7 @@
   cursor: pointer;
 }
 .gpt3__navbar-sign button {
-  padding: 0.5rem 1rem;
+  padding: 1rem 2rem;
   color: #fff;
   font-family: var(--font-family);
   font-weight: 500;
